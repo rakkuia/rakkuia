@@ -19,12 +19,14 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="right" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-  
+  <img align="center" height="30" width="40" src="https://github.com/rakkuia/rakkuia/blob/main/lain.gif">
   </div>
 <br>
+ 
+
+ 
 <div>
 
 
