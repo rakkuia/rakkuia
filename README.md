@@ -7,7 +7,7 @@
  
 <div>
   <a href="https://beacons.ai/rakkuia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakkuia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakkuia&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakkuia&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
