@@ -1,5 +1,5 @@
 <div align="left">
-<h1>Hello!</h1>
+<h1>Hello! I'm rRakkuia</h1>
  <p>🔭 Fullstack Dev</p>
  <p>🌱 Currently learning 𝓮𝓿𝓮𝓻𝔂𝓽𝓱𝓲𝓷𝓰</p>
 </div> 
