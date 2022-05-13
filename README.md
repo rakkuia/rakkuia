@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hello! I'm rRakkuia</h1>
- <p>🔭 Fullstack Dev</p>
- <p>🌱 Currently learning 𝓮𝓿𝓮𝓻𝔂𝓽𝓱𝓲𝓷𝓰</p>
+ <p>*Fullstack Dev*</p>
+ <p>*Currently learning 𝓮𝓿𝓮𝓻𝔂𝓽𝓱𝓲𝓷𝓰*</p>
 </div> 
 
 <div align="center">
