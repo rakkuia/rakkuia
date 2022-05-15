@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://beacons.ai/rakkuia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakkuia&hide=stars,issues"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakkuia&layout=compact&hide=html"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakkuia&show_icons=true&hide=stars,issues&theme=radical"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakkuia&layout=compact&hide=html&theme=radical"/>
 </div>
 
  <div>
