@@ -1,16 +1,19 @@
-
+<a href="https://beacons.ai/rakkuia">
 <div align="center">
 <h1>rRakkuia</h1>
  <p>🔅Fullstack Dev🔅</p>
+ <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="200px"/>
  <p>🔅Currently learning 𝓮𝓿𝓮𝓻𝔂𝓽𝓱𝓲𝓷𝓰🔅</p>
+ 
 </div> 
 <div align="center">
-  <a href="https://beacons.ai/rakkuia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakkuia&show_icons=true&hide=stars,issues&theme=radical"/><br>
-  <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="100px"/>
+   <img src="https://64.media.tumblr.com/e821c1cb32ed0f64f4073a5e75d6b4bc/tumblr_n6tb246Mf11si7x18o1_500.gif" width="100px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakkuia&layout=compact&theme=radical"/>
-   <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="100px"/>
+   <img src="https://64.media.tumblr.com/e821c1cb32ed0f64f4073a5e75d6b4bc/tumblr_n6tb246Mf11si7x18o1_500.gif" width="100px"/>
+ </a>
 </div> 
+
  <div>
 <h3 align="center">Main Programming Languages:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></p>
