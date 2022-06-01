@@ -2,7 +2,7 @@
 <h1>rRakkuia</h1>
  <p>🔅Fullstack Dev🔅</p>
  <a href="https://beacons.ai/rakkuia">
- <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="200px"/>
+ <img src="https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif" width="200px" height="200px"/>
  </a>
  <p>🔅Currently learning 𝓮𝓿𝓮𝓻𝔂𝓽𝓱𝓲𝓷𝓰🔅</p>
  
